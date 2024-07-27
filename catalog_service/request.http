@@ -1,0 +1,9 @@
+POST http://localhost:9001/products
+Content-Type: application/json
+
+{
+    "name" :"Samsung TV",
+    "description": "smart TV",
+    "price" : 1000,
+    "stock" :  30
+}
